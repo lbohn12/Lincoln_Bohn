@@ -14,7 +14,7 @@
 ### 🧑‍🔬 About Me
 
 - 🏥 **Research Associate** focused on substance use disorders and addiction science at UCLA ISAP.
-- 🧠 Passionate about data-driven approaches to public health, but not a fan of endless studies or personal health data paperwork!
+- 🧠 Passionate about data-driven approaches to public health! I study a lot of topics. Hate, ML, Substance use, criminology, social science interventions, evidence-based programs, critical social sciences. 
 - 🥦 My profile is guarded by Broccoli Man (yes, that's him up there ☝️).
 
 ### 🛠️ Technical Skills
