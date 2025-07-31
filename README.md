@@ -33,9 +33,3 @@
 ### Fun Fact
 
 > "You can’t spell ‘broccoli’ without ‘cool’."
-
----
-
-<p align="center">
-  <i>Always open to connect and chat about data, science, and the art of avoiding paperwork!</i>
-</p>
