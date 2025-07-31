@@ -11,28 +11,26 @@
 
 ---
 
-### 🧑‍🔬 About Me
+### About Me
 
-- 🏥 **Research Associate** focused on substance use disorders and addiction science at UCLA ISAP.
-- 🧠 Passionate about data-driven approaches to public health! I study a lot of topics. Hate, ML, Substance use, criminology, social science interventions, evidence-based programs, critical social sciences. 
-- 🥦 My profile is guarded by Broccoli Man (yes, that's him up there ☝️).
+- **Research Associate** (That means I don't have a PhD but I work in research still)
+- focused on substance use disorders and addiction science at UCLA ISAP.
+- I study a lot of topics. Hate, Machine Learning, Substance use, Criminology -- to name a few.
+- 🥦 My profile is guarded by Broccoli Man (yes, that's him up there).
 
-### 🛠️ Technical Skills
+### Stuff I like to work with:
 
-- **Python**
+- **Python** 
 - **R**
 - **SQL**
-- **SPSS**
+- **CSS**
+- **HTML**
+- **Spreadhsheets**
+- **Interview Transcripts**
+- **Databases**
+- **Front-End Applications**
 
-### 🔒 Favorite Projects
-
-Most of my favorite repositories are private, but they're all about making a difference in substance use research and data analysis.
-
-### 🌐 Social
-
-- Bluesky: _[Coming Soon!]_
-
-### 💬 Fun Fact
+### Fun Fact
 
 > "You can’t spell ‘broccoli’ without ‘cool’."
 
