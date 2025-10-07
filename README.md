@@ -15,7 +15,7 @@
 
 - **Research Associate** (That means I don't have a PhD but I work in research still)
 - focused on substance use disorders and addiction science at UCLA ISAP.
-- I study a lot of topics. Hate, Machine Learning, Substance use, Criminology -- to name a few.
+- I study a lot of topics. Substance use, Criminology mostly.
 - 🥦 My profile is guarded by Broccoli Man (yes, that's him up there).
 
 ### Stuff I like to work with:
@@ -25,10 +25,10 @@
 - **SQL**
 - **CSS**
 - **HTML**
-- **Spreadhsheets**
-- **Interview Transcripts**
+- **Spreadsheets**
+- **Interviews**
 - **Databases**
-- **Front-End Applications**
+- **Front-End**
 
 ### Fun Fact
 
