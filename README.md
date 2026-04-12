@@ -1,35 +1,25 @@
-<!-- Broccoli Man will watch over your profile! -->
-<p align="center">
-  <img src="https://github.com/lbohn12/Lincoln_Bohn/blob/main/90837175.jpg" width="140" alt="Broccoli Man - Lincoln_Bohn's Profile Pic"/>
-</p>
+# Lincoln Bohn
 
-<h1 align="center">Hi, I'm Lincoln_Bohn 👋</h1>
+I study people in different environments, and I build the tools to do it.
 
-<p align="center">
-  <b>Research Associate in Substance Use Disorders @ UCLA Integrated Substance Use and Addiction Programs (ISAP)</b>
-</p>
+Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Program (ISAP)** — reclassified from SRA II to SRA III in under three years. My work has ranged from parole agents to prison-based RCTs to women who use drugs in Ho Chi Minh City. The environments change. The job — turning messy human feedback into decisions — does not.
 
----
+### What I do
+- **End-to-end survey research** — design, Qualtrics programming (API, JavaScript custom questions, automated response pipelines), field deployment, extraction, analysis, reporting
+- **Mixed methods** — interviews, focus groups, ethnographic fieldwork paired with quantitative instruments
+- **Applied data + ML** — Python (FastAPI, pandas, scikit-learn), SQL (Postgres/SQLite), LLM pipelines, RAG
+- **Ship, don't just analyze** — public-facing research platforms, full-stack internal tools, production infrastructure
 
-### About Me
+### Selected work
+- **[super.ucla.edu](https://super.ucla.edu)** — Substance Use Evidence-Based Resource repository used by behavioral-health, educational, and service providers across California. Designed, built, and maintain end-to-end (data, UX, AI-assisted search, infra).
+- **[gss-research-center](https://github.com/lbohn12/gss-research-center)** — FastAPI + SQL survey-data platform over 75k+ General Social Survey participants with an MCP layer for AI-assisted social-science analysis.
+- Internal UCLA tools (private): full-stack office scheduler replacing a legacy ASP system, RAG research databases, LMS platform, workflow automation for survey/interview data cleaning.
 
-- **Research Associate** (That means I don't have a PhD but I work in research still)
-- focused on substance use disorders and addiction science at UCLA ISAP.
-- I study a lot of topics. Substance use, Criminology mostly.
-- 🥦 My profile is guarded by Broccoli Man (yes, that's him up there).
+### Publications
+- Bohn, Wilking, Roll (2025). *The Effect of Noncongregate Emergency Shelters on Occupant Well-Being.* **Public Health Reports®**.
+- Bohn (2025). *Breaking the Cycle: Why Jails Could Prevent Hate Crimes Before They Happen.* UCLA Initiative to Study Hate.
+- Bohn (2023). M.A. Thesis, CSU Chico.
 
-### Stuff I like to work with:
+Los Angeles · bohnlincoln@ucla.edu
 
-- **Python** 
-- **R**
-- **SQL**
-- **CSS**
-- **HTML**
-- **Spreadsheets**
-- **Interviews**
-- **Databases**
-- **Front-End**
-
-### Fun Fact
-
-> "You can’t spell ‘broccoli’ without ‘cool’."
+<sub>Profile still guarded by Broccoli Man, just in plain clothes now.</sub>
