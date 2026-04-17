@@ -2,7 +2,7 @@
 
 I study people in different environments, and I build the tools to do it.
 
-Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Program (ISAP)** — reclassified from SRA II to SRA III in under three years. My work has ranged from parole agents to prison-based RCTs to women who use drugs in Ho Chi Minh City. The environments change. The job — turning messy human feedback into decisions — does not.
+Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Program (ISAP)** — The environments change. The job is turning messy human feedback into decisions, and that does not.
 
 ### What I do
 - **End-to-end survey research** — design, Qualtrics programming (API, JavaScript custom questions, automated response pipelines), field deployment, extraction, analysis, reporting
