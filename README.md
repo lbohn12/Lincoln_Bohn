@@ -2,7 +2,7 @@
 
 I study people in different environments, and I build the tools to do it.
 
-Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Program (ISAP)** — The environments change. The job is turning messy human feedback into decisions, and that does not.
+Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Programs (ISAP)** — The environments change. The job is turning messy human feedback into decisions, and that does not.
 
 ### What I do
 - **End-to-end survey research** — survey design, Qualtrics programming (API, automated response pipelines), field deployment for RFA processes, extraction from paper forms, analysis, reporting.
