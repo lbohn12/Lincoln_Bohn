@@ -12,7 +12,7 @@ Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Progra
 
 ### Selected work
 - **[super.ucla.edu](https://super.ucla.edu)** — Substance Use Evidence-Based Resource repository used by behavioral-health, educational, and service providers across California. Designed, built (with help), and maintained end-to-end (data, UX, infra).
-- Internal UCLA tools (private): full-stack office scheduler replacing a legacy ASP system, RAG research databases, LMS platform, workflow automation for survey/interview data cleaning, home-server running CI/CD and monitoring across ~75 services.
+- Internal tools (private): full-stack tools with React and SQL/stateless cloud (e.g. firebase), RAG research databases, LMS platform, workflow automation for survey/interview data cleaning, home-server running CI/CD and monitoring across ~75 containerized services.
 
 ### Publications
 - Bohn, Wilking, Roll (2025). *The Effect of Noncongregate Emergency Shelters on Occupant Well-Being.* **Public Health Reports®**.
