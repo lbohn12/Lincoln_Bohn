@@ -5,8 +5,8 @@ I study people in different environments, and I build the tools to do it.
 Mixed-methods researcher at **UCLA Integrated Substance Use and Addiction Programs (ISAP)** — The environments change. The job is turning messy human feedback into decisions, and that does not.
 
 ### What I do
-- **End-to-end survey research**: survey design, Qualtrics programming (API, automated response pipelines), field deployment for RFA processes, extraction from paper forms, analysis, reporting.
-- **Mixed methods**: interviews, focus groups, ethnographic fieldwork paired with quantitative instruments.
+- **End-to-end survey research**: survey design, Qualtrics programming (API, automated response pipelines), field deployment for RFA processes and accessible sites, extraction from paper forms, analysis, reporting.
+- **Mixed methods**: staff and exit interviews, focus groups, ethnographic fieldwork.
 - **Applied data + ML**: Python (FastAPI, pandas, scikit-learn), SQL (Postgres/SQLite), VLLM pipelines, RAG.
 - **Ship things**: public-facing platforms, dashboards and databases, full-stack internal tools, production infrastructure, mobile apps (still in development)
 
